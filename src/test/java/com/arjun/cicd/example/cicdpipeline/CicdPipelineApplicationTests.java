@@ -19,5 +19,12 @@ class CicdPipelineApplicationTests {
 		assertEquals(actual,expected);
 
 	}
+	@Test
+	public void TestDemo1(){
+		String actual = "Actual test";
+		String expected = "Actual test";
+		assertEquals(actual,expected);
+
+	}
 
 }
